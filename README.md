@@ -36,6 +36,11 @@ https://omnomnom.vision.rwth-aachen.de/data/3d_inter_obj_seg/scannet_official/we
 Preferably install a python virtual env (conda) using the requirements file in the repository or use it as a guideline since the ME engine needs to be installed seperately.
 The code is based on the [Minkowski Engine](https://github.com/NVIDIA/MinkowskiEngine), and the [documentation page](https://nvidia.github.io/MinkowskiEngine/overview.html#installation) contains useful instructions on how to install the Minkowski Engine.
 
+## Installing with Conda
+Use Conda_packages to install the base environment. Then follow intels guide to install the packages that were unable to be installed normally (see in intel_packages.txt) 
+https://www.intel.com/content/www/us/en/docs/oneapi/installation-guide-windows/2023-0/conda.html
+
+
 
 
 
