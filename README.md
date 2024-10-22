@@ -1,4 +1,4 @@
-# Interactive Object Segmentation in 3D Point Clouds
+# Interactive Object Segmentation in 3D Point Clouds + Uncertainty Estimation & Visualisation
 
 
 
