@@ -1,4 +1,4 @@
-name: py3-intobj
+name: IntObject3D
 channels:
 - pytorch
 - conda-forge
